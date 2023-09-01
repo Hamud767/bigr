@@ -1,1 +1,17 @@
-
+body {
+  font-size: 15
+}
+a {
+  display: inline-block;
+  padding: 20px 20px;
+  background-color: var(#8080ff);
+  color: #000;
+  text-decoration: none;
+  border-radius: 7px;
+  transition: background-color 03s ease;
+}
+  a:hover {
+    background-color: var(#7e9dc4);
+  }
+  
+  
