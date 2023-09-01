@@ -1,11 +1,12 @@
 body {
+  background-color: #d5db93
   font-size: 15
 }
 a {
   display: inline-block;
   padding: 20px 20px;
-  background-color: var(#d5db93);
-  color: #fff;
+  background-color: var(#93cedb);
+  color: #000;
   text-decoration: none;
   border-radius: 7px;
   transition: background-color 03s ease;
